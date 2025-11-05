@@ -44,38 +44,20 @@ lavieja/
 ##  📦 Demo
 ![Image](https://github.com/user-attachments/assets/897816db-a818-45a7-800e-c28aa0ba49e3)
 
-## 📥 Instalación y Ejecución
+---
 
-### Requisitos Previos
-- Java JDK 24 o superior
-- NetBeans IDE 26 (recomendado)
+## ✨ Instalación y Ejecución (¡Método Sencillo!)
 
+¡No necesitas tener Java instalado! Descarga el instalador a continuación:
 
+### 📥 Descarga para Windows 10/11
 
-## 🚀 Pasos para Ejecutar
+[![Descargar Juego de la Vieja.exe](https://img.shields.io/badge/Descargar_Instalador-v1.0.0-blue?style=for-the-badge&logo=windows)]([ENLACE_DIRECTO_QUE_COPIASTE](https://github.com/Aniek-dev/la-vieja-en-java/releases/download/v1.0.0/Juego.de.la.Vieja-1.0.exe))
 
-1. **Clonar el repositorio:**
+*(Haz clic en el botón, descarga el archivo `.exe`, y ejecútalo para instalar el juego).*
 
-   ```bash
-   git clone https://github.com/Aniek-dev/la-vieja-en-java.git
-Abrir el proyecto en NetBeans:
+---
 
-   ```
-
-
-Ir a File → Open Project
-
-Seleccionar la carpeta la-vieja-en-java
-
-Click en Open Project
-
-Ejecutar el juego:
-
-Botón derecho sobre el proyecto → Run
-
-O presionar F6
-
- ```
  
 ## 🎯 Cómo Jugar
 1. **Iniciar la aplicación** - Ejecutar `principal.java`
