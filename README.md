@@ -52,13 +52,13 @@ lavieja/
 
 ### 📥 Descarga para Windows 10/11
 
-[![Descargar Juego de la Vieja.exe](https://img.shields.io/badge/Descargar_Instalador-v1.0.0-blue?style=for-the-badge&logo=windows)]([ENLACE_DIRECTO_QUE_COPIASTE](https://github.com/Aniek-dev/la-vieja-en-java/releases/download/v1.0.0/Juego.de.la.Vieja-1.0.exe))
 
 
-👉 [Descargar aquí el archivo .exe](https://github.com/Aniek-dev/la-vieja-en-java/releases/download/v1.0.0/Juego.de.la.Vieja-1.0.exe)
+
+👉 [Descargar aquí lavieja.exe](https://github.com/Aniek-dev/la-vieja-en-java/releases/download/v1.0.0/Juego.de.la.Vieja-1.0.exe)
 
 
-*(Haz clic en el botón, descarga el archivo `.exe`, y ejecútalo para instalar el juego).*
+*(Haz clic arriba, descarga el archivo `.exe`, y ejecútalo para instalar el juego).*
 
 ---
 
