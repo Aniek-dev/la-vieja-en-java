@@ -1,7 +1,7 @@
 # 🎮 La Vieja - Juego de java
 
 Un clásico juego de "La Vieja" (Tic Tac Toe) implementado en Java.
-## ✨ Características
+# ✨ Características
 
 - 🎯 **Interfaz moderna** con diseño venezolano
 - 👥 **Dos jugadores** en el mismo dispositivo
@@ -10,12 +10,12 @@ Un clásico juego de "La Vieja" (Tic Tac Toe) implementado en Java.
 - ⚡ **Turnos alternados** con indicación visual
 
 
-## 🛠️ Tecnologías Utilizadas
+#🛠️ Tecnologías Utilizadas
 
 - **Java** JDK 24
 - **NetBeans IDE 26** - Entorno de desarrollo
 
-## 📁 Estructura del Proyecto
+#📁 Estructura del Proyecto
 ```bash
 lavieja/
 ├── src/
@@ -41,16 +41,16 @@ lavieja/
 └── README.md
 ```
 
-##  📦 Demo
+#  📦 Demo
 ![Image](https://github.com/user-attachments/assets/897816db-a818-45a7-800e-c28aa0ba49e3)
 
 ---
 
-## ✨ Instalación y Ejecución (¡Método Sencillo!)
+# ✨ Instalación y Ejecución (¡Método Sencillo!)
 
 ¡No necesitas tener Java instalado! Descarga el instalador a continuación:
 
-### 📥 Descarga para Windows 10/11
+#📥 Descarga para Windows 10/11
 
 
 
@@ -63,7 +63,7 @@ lavieja/
 ---
 
  
-## 🎯 Cómo Jugar
+# 🎯 Cómo Jugar
 1. **Iniciar la aplicación** - Ejecutar `principal.java`
 2. **Los jugadores son asignados** automáticamente (Equis ❌ y Círculos ⭕)
 3. **Turnos por click** - Cada jugador hace click en una casilla vacía
