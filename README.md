@@ -83,3 +83,10 @@ Este proyecto fue desarrollado como parte del aprendizaje de:
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-villarreal-gonzalez/)
 
 
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/40a40866-fc6f-40f6-a54b-5f2bf7dc5b55" width="50%" height="70px" alt="flores">
+</p>
+
+
